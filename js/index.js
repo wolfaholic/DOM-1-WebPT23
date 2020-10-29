@@ -74,6 +74,8 @@ navColor.forEach(element => {
     element.style.color = "green";
 });
 
+
+
 //Call to Action
 let actionHeader = document.querySelector(".cta-text h1");
 actionHeader.textContent = siteContent["cta"]["h1"];
